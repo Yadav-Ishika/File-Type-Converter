@@ -686,7 +686,7 @@ if st.session_state.conversion_type == "png_to_pdf":
 # Sidebar Content
 st.sidebar.markdown("""
     <div style='text-align: center; display: flex; flex-direction: column; gap: -100px;'>
-        <p style='font-size: 1vw;'>Developed by Rayyan Ashraf</p>
+        <p style='font-size: 1vw;'>Developed by Ishika Yadav</p>
         <p style='font-size: 1vw;'>Copyright @ 2024</p>
         <p style='font-size: 1vw;'>Developed in Python 3.12.5</p>
     </div>
