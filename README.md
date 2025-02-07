@@ -10,7 +10,7 @@
 4. Install the neceesary libraries if not installed earlier
    Use Command :
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirements.txt 
    ```
 
    Or Update if already installed but not updated, Use Command :
